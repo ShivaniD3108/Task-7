@@ -6,14 +6,4 @@ esalary FLOAT);
 
 SELECT * FROM EMP.EMP;
 
-
-
-
-
-
-
-
-
-
-
 Drop table EMP.EMP; 
